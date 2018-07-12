@@ -1,7 +1,7 @@
 # todo-list-with-test
 
 Primeiros passos com testes em Vue.js
-Exemplos baseado no artigo [guide](https://scotch.io/tutorials/how-to-write-a-unit-test-for-vuejs).
+Exemplos baseado no artigo [How to Write A Unit Test for Vue.js](https://scotch.io/tutorials/how-to-write-a-unit-test-for-vuejs).
 
 ## Build Setup
 
